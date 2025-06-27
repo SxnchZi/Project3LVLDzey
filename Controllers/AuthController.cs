@@ -5,7 +5,9 @@ using System.IdentityModel.Tokens.Jwt;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using System.Security.Claims;
-using Models;
+using Project3LVLDzey.Models;
+using Project3LVLDzey.Data;
+using Project3LVLDzey.Services;
 
 [ApiController]
 [Route("api/[controller]")]
