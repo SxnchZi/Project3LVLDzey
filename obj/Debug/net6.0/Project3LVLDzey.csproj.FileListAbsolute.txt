@@ -1,0 +1,9 @@
+C:\Users\Alexandr\Desktop\ProjectLVL3Dzedzey1\Project3LVLDzey\obj\Debug\net6.0\Project3LVLDzey.csproj.AssemblyReference.cache
+C:\Users\Alexandr\Desktop\ProjectLVL3Dzedzey1\Project3LVLDzey\obj\Debug\net6.0\rpswa.dswa.cache.json
+C:\Users\Alexandr\Desktop\ProjectLVL3Dzedzey1\Project3LVLDzey\obj\Debug\net6.0\Project3LVLDzey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandr\Desktop\ProjectLVL3Dzedzey1\Project3LVLDzey\obj\Debug\net6.0\Project3LVLDzey.AssemblyInfoInputs.cache
+C:\Users\Alexandr\Desktop\ProjectLVL3Dzedzey1\Project3LVLDzey\obj\Debug\net6.0\Project3LVLDzey.AssemblyInfo.cs
+C:\Users\Alexandr\Desktop\ProjectLVL3Dzedzey1\Project3LVLDzey\obj\Debug\net6.0\Project3LVLDzey.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\Desktop\ProjectLVL3Dzedzey1\Project3LVLDzey\obj\Debug\net6.0\Project3LVLDzey.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alexandr\Desktop\ProjectLVL3Dzedzey1\Project3LVLDzey\obj\Debug\net6.0\Project3LVLDzey.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alexandr\Desktop\ProjectLVL3Dzedzey1\Project3LVLDzey\obj\Debug\net6.0\Project3LVLDzey.sourcelink.json
